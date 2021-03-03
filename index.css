@@ -24,3 +24,8 @@ header{
 nav{
     border: 3px solid blue;
 }
+
+p > span{
+    color: red;
+    font-style: italic;
+}
